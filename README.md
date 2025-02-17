@@ -1,6 +1,8 @@
 # Leetcode Workout Challenge 🚀
 
-Welcome to my **LeetCode Workout Challenge** repository! 🎯 My mission is to solve **100 LeetCode problems** in **2025**, and all my solutions will be stored here using **JavaScript**.
+Welcome to my **LeetCode Workout Challenge** repository! 
+
+🎯 My mission is to solve **100 LeetCode problems** in **2025**, and all my solutions will be stored here using **JavaScript**.
 
 ---
 
@@ -10,7 +12,7 @@ Welcome to my **LeetCode Workout Challenge** repository! 🎯 My mission is to s
 
 | 🟩 Completed | ⬜️ Remaining |
 | ------------ | ------------ |
-| 10           | 90            |
+| 11           | 89            |
 
 ---
 

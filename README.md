@@ -12,7 +12,7 @@ Welcome to my **LeetCode Workout Challenge** repository!
 
 | 🟩 Completed | ⬜️ Remaining |
 | ------------ | ------------ |
-| 12           | 88            |
+| 13           | 87            |
 
 ---
 

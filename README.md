@@ -2,7 +2,7 @@
 
 Welcome to my **LeetCode Workout Challenge** repository!
 
-🎯 My mission is to solve **100 LeetCode problems** in **2025**, and all my solutions will be stored here using **JavaScript**.
+🎯 My mission is to solve **100 LeetCode problems** in **2025**, and all my solutions will be stored here using **Python**, **SQL** or **JavaScript**.
 
 ---
 
@@ -36,8 +36,7 @@ Welcome to my **LeetCode Workout Challenge** repository!
 
 ## 🛠️ Tech Stack
 
-**Language**: JavaScript <br>
-**Tools**: VS Code, Node.js, LeetCode Playground
+**Languages**: Python, SQL, JavaScript <br>
 
 ## 🎉 Milestones
 

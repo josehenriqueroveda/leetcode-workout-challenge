@@ -12,7 +12,7 @@ Welcome to my **LeetCode Workout Challenge** repository!
 
 | 🟩 Completed | ⬜️ Remaining |
 | ------------ | ------------- |
-| 24           | 76            |
+| 25           | 75            |
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to my **LeetCode Workout Challenge** repository!
 
 🟢 10 Problems Solved - Small wins matter!
 
-🔴 25 Problems Solved - Quarter-way mark!
+🟢 25 Problems Solved - Quarter-way mark!
 
 🔴 50 Problems Solved - Halfway there!
 
